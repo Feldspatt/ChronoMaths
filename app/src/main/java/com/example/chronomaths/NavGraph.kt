@@ -5,6 +5,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.example.chronomaths.screen.HomeScreen
+import com.example.chronomaths.screen.Screen
 
 @Composable
 fun SetupNavGraph(
